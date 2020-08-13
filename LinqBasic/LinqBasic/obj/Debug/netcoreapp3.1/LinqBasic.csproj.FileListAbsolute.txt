@@ -1,0 +1,14 @@
+C:\Users\thelittlecitizen11\source\repos\LinqBasic\LinqBasic\bin\Debug\netcoreapp3.1\LinqBasic.exe
+C:\Users\thelittlecitizen11\source\repos\LinqBasic\LinqBasic\bin\Debug\netcoreapp3.1\LinqBasic.deps.json
+C:\Users\thelittlecitizen11\source\repos\LinqBasic\LinqBasic\bin\Debug\netcoreapp3.1\LinqBasic.runtimeconfig.json
+C:\Users\thelittlecitizen11\source\repos\LinqBasic\LinqBasic\bin\Debug\netcoreapp3.1\LinqBasic.runtimeconfig.dev.json
+C:\Users\thelittlecitizen11\source\repos\LinqBasic\LinqBasic\bin\Debug\netcoreapp3.1\LinqBasic.dll
+C:\Users\thelittlecitizen11\source\repos\LinqBasic\LinqBasic\bin\Debug\netcoreapp3.1\LinqBasic.pdb
+C:\Users\thelittlecitizen11\source\repos\LinqBasic\LinqBasic\obj\Debug\netcoreapp3.1\LinqBasic.csprojAssemblyReference.cache
+C:\Users\thelittlecitizen11\source\repos\LinqBasic\LinqBasic\obj\Debug\netcoreapp3.1\LinqBasic.AssemblyInfoInputs.cache
+C:\Users\thelittlecitizen11\source\repos\LinqBasic\LinqBasic\obj\Debug\netcoreapp3.1\LinqBasic.AssemblyInfo.cs
+C:\Users\thelittlecitizen11\source\repos\LinqBasic\LinqBasic\obj\Debug\netcoreapp3.1\LinqBasic.csproj.CoreCompileInputs.cache
+C:\Users\thelittlecitizen11\source\repos\LinqBasic\LinqBasic\obj\Debug\netcoreapp3.1\LinqBasic.csproj.CopyComplete
+C:\Users\thelittlecitizen11\source\repos\LinqBasic\LinqBasic\obj\Debug\netcoreapp3.1\LinqBasic.dll
+C:\Users\thelittlecitizen11\source\repos\LinqBasic\LinqBasic\obj\Debug\netcoreapp3.1\LinqBasic.pdb
+C:\Users\thelittlecitizen11\source\repos\LinqBasic\LinqBasic\obj\Debug\netcoreapp3.1\LinqBasic.genruntimeconfig.cache
